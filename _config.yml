@@ -13,14 +13,16 @@ plugins:
   - jekyll-seo-tag
 
 # Sidebar links - edit these to add your own
-# These show up in the sidebar under "Links"
+# These show up in the sidebar under "Links" 
 blogroll:
   - name: Puzzle Dungeon (Direct Sun)
     url: https://puzzledungeon.com/
   - name: Words & Other Sorcery (Joseph R. Lewis)
     url:  https://www.josephrlewis.com/
+  - name: Bastionland (Chris McDowall)
+    url: https://www.bastionland.com/
   - name: Save vs Total Party Kill
-    url: https://save.vs.totalpartykill.ca/
+    url: https://save.vs.totalpartykill.ca/    
   - name: I Cast Light!
     url:  https://icastlight.blogspot.com/?m=0
   - name: Silverarm Press (Joel H)
