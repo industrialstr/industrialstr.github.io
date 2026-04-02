@@ -15,8 +15,6 @@ plugins:
 # Sidebar links - edit these to add your own
 # These show up in the sidebar under "Links"
 blogroll:
-  - name: Direct Sun
-    url: https://directsungames.blogspot.com/
   - name: Puzzle Dungeon (Direct Sun)
     url: https://puzzledungeon.com/
   - name: Words & Other Sorcery (Joseph R. Lewis)
