@@ -1,0 +1,37 @@
+title: Industrialstr
+description: "Tabletop RPGs, Miniatures & the Hobbies That Surround Them"
+url: "https://industrialstr.com"
+baseurl: ""
+
+permalink: /:year/:month/:day/:title/
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Sidebar links - edit these to add your own
+# These show up in the sidebar under "Links"
+blogroll:
+  - name: Goblin Punch
+    url: https://goblinpunch.blogspot.com/
+  - name: Luke Gearing
+    url: https://lukegearing.blot.im/
+  - name: All Dead Generations
+    url: https://alldeadgenerations.blogspot.com/
+
+# Sidebar pages section
+sidebar_pages:
+  - name: Home
+    url: /
+  - name: About
+    url: /about/
+  - name: Archive
+    url: /archive/
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
