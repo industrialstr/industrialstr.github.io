@@ -35,10 +35,15 @@ blogroll:
     url: https://lukegearing.blot.im/
   - name: All Dead Generations
     url: https://alldeadgenerations.blogspot.com/
+  - name: Rise Up Comus
+    url:  https://riseupcomus.blogspot.com/    
   - name: Prismatic Wasteland
     url:  https://www.prismaticwasteland.com/
+  - name: Whose Measure God Could Not Take
+    url: https://whosemeasure.blogspot.com/
+  - name: Zenopus Archive
+    url:  https://zenopusarchives.blogspot.com/
     
-
 # Sidebar pages section
 sidebar_pages:
   - name: Home
