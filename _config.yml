@@ -15,12 +15,29 @@ plugins:
 # Sidebar links - edit these to add your own
 # These show up in the sidebar under "Links"
 blogroll:
+  - name: Direct Sun
+    url: https://directsungames.blogspot.com/
+  - name: Words & Other Sorcery (Joseph R. Lewis)
+    url:  https://www.josephrlewis.com/
+  - name: Save vs Total Party Kill
+    url: https://save.vs.totalpartykill.ca/
+  - name: I Cast Light!
+    url:  https://icastlight.blogspot.com/?m=0
+  - name: Silverarm Press (Joel H)
+    url: https://silverarmpress.com/
+  - name: Papers & Pencils
+    url: https://www.paperspencils.com/
+  - name: Cats have no Lord
+    url:  https://blog.catshavenolord.page/i-have-a-podcast/
   - name: Goblin Punch
     url: https://goblinpunch.blogspot.com/
   - name: Luke Gearing
     url: https://lukegearing.blot.im/
   - name: All Dead Generations
     url: https://alldeadgenerations.blogspot.com/
+  - name: Prismatic Wasteland
+    url:  https://www.prismaticwasteland.com/
+    
 
 # Sidebar pages section
 sidebar_pages:
