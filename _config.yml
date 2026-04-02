@@ -1,0 +1,24 @@
+title: Industrial Street
+description: "Tabletop RPGs, Miniatures & the Hobbies That Surround Them"
+url: "https://industrialstr.com"
+baseurl: ""
+
+permalink: /:year/:month/:day/:title/
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Pagination (optional, add jekyll-paginate to plugins if you want it)
+# paginate: 5
+# paginate_path: "/page/:num/"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
