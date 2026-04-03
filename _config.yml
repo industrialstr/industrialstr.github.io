@@ -13,7 +13,7 @@ plugins:
   - jekyll-seo-tag
 
 # Sidebar links - edit these to add your own
-# These show up in the sidebar under "Links" 
+# These show up in the sidebar under "Links"  
 blogroll:
   - name: Puzzle Dungeon (Direct Sun)
     url: https://puzzledungeon.com/
@@ -27,6 +27,8 @@ blogroll:
     url:  https://icastlight.blogspot.com/?m=0
   - name: Silverarm Press (Joel H)
     url: https://silverarmpress.com/
+  - name: Permanent Cranial Damage
+    url: https://permacrandam.blogspot.com/
   - name: Papers & Pencils
     url: https://www.paperspencils.com/
   - name: Cats have no Lord
